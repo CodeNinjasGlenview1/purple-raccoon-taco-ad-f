@@ -1,0 +1,35 @@
+#gugu {
+  border: 10px solid purple;
+}
+
+h1 {
+  color: #C900E1;
+}
+
+#gugu {
+  background-color: #7605A4;
+}
+
+#bob {
+  background-color: #7605A9;
+}
+
+h2 {
+  color: #C900E1
+}
+
+#bob {
+  border: 10px solid purple
+}
+
+p {
+  color: #260b25
+}
+
+h3 {
+  color: #c286c0
+}
+img{
+  width: 400px;
+  height: 300px;
+}
